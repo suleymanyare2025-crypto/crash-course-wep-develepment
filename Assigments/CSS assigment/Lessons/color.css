@@ -1,0 +1,60 @@
+.company h1{
+text-align: center;
+color: darkblue;
+
+}
+.company p{
+    background-color: rgb(181, 206, 206);
+    padding: 30px;
+    margin: 20px;
+    border-radius: 30px;
+}
+
+.Testimonials h1 {
+    text-align: center;
+    color: brown;
+
+}
+
+
+.fun p {
+    background-color: burlywood;
+    padding: 30px;
+    margin: 20px;
+    border-radius: 20px;
+    font-size: large;
+}
+.fun h2{
+    text-align: center;
+    margin-top: 20px;
+    color: rgb(105, 6, 92);
+    font-size: xx-large;
+
+}
+
+.lucky p{
+    background-color: hotpink;
+    padding: 30px;
+    margin: 20px;
+    border-radius: 20px;
+    font-size: large;
+}
+.lucky h2{
+    text-align: center;
+    color: blue;
+    font-size: xx-large;
+}
+
+.real p{
+    background-color: mediumorchid;
+    padding: 30px;
+    margin: 20px;
+    border-radius: 20px;
+
+}
+.real h2{
+    text-align: center;
+    font-weight: bold;
+    font-size: xx-large;
+
+}

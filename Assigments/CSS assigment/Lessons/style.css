@@ -1,0 +1,22 @@
+h1{
+    color: rgb(26, 101, 99);
+}
+h2{
+    color: peru;
+}
+
+
+p{
+    font-size: 20px;
+    color: fuchsia;
+    font-style: italic;
+}
+
+.list{
+    color: mediumaquamarine;
+}
+
+#lists{
+color: maroon;
+font-size: 15px;
+}

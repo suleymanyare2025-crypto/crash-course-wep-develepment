@@ -1,0 +1,55 @@
+#books{
+    width: 80vw;
+    background-color: blue;
+    height: 50vh;
+    margin: 5vh;
+    padding: 20px;
+}
+
+#books h1{
+    text-align: center;
+    color: white;
+
+}
+#books p{
+    text-align: center;
+    color: white;
+}
+
+#movies{
+    width: 80vw;
+    height: 50vh;
+    margin: 5vh;
+    padding: 20px;
+    background-color: gray;
+}
+
+#movies h1{
+    text-align: center;
+    color:white;
+}
+#movies{
+    text-align: center;
+    color:white;
+
+}
+
+
+
+#foods{
+    width: 80vw;
+    height: 50vh;
+    margin: 5vh;
+    padding: 20px;
+    background-color: green;
+}
+
+#foods h1{
+    text-align: center;
+    color: aliceblue;
+
+}
+#foods p{
+    text-align: center;
+    color: aliceblue;
+}
